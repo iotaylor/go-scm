@@ -5,6 +5,7 @@
 package gitlab
 
 import (
+	"fmt"
 	"net/url"
 	"strconv"
 	"strings"
